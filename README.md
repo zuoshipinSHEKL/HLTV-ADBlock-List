@@ -1,3 +1,4 @@
+```
 www.hltv.org##DIV[id="front_3"][class="kgN8P9bvyb2EqDJR "]
 www.hltv.org##DIV[id="g1_bottom_3"][class="kgN8P9bvyb2EqDJR "]
 www.hltv.org##IMG[src="/img/static/widgets/aaa/first16.gif"]
@@ -19,3 +20,4 @@ www.hltv.org##DIV[class="column-triple-ASdvuasdr123Gazx thunderpick"]
 www.hltv.org##DIV[class="accumulator-ASdvuasdr123Gazx ASdvuasdr123Gazx-etbx"]
 www.hltv.org##IMG[src="/img/static/logos/yabo3_night.png"]
 https://img-cdn.hltv.org/partnerimage/$domain=hltv.org
+```
