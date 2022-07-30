@@ -19,5 +19,7 @@ www.hltv.org##DIV[class="section-header featured-match-ASdvuasdr123Gazx-containe
 www.hltv.org##DIV[class="column-triple-ASdvuasdr123Gazx thunderpick"]
 www.hltv.org##DIV[class="accumulator-ASdvuasdr123Gazx ASdvuasdr123Gazx-etbx"]
 www.hltv.org##IMG[src="/img/static/logos/yabo3_night.png"]
+www.hltv.org##DIV[class="section-header featured-match-ASdvuasdr123Gazx-container wide-ASdvuasdr123Gazx generic 1xbet"]
 https://img-cdn.hltv.org/partnerimage/$domain=hltv.org
+
 ```
